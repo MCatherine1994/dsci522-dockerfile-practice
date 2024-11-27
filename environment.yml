@@ -5,7 +5,7 @@ dependencies:
   - conda-lock
   - pandas
   - altair
+  - python=3.11
   - mamba
   - jupyterlab
-  - python=3.11
 prefix: /Users/catherinemeng/miniforge3/envs/522_week2_env
